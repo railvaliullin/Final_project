@@ -1,0 +1,13 @@
+steps\LoginTest.class
+utils\DataGenerator.class
+utils\TestUser.class
+config\ApiConfig.class
+pages\AdsPage.class
+steps\RegistrationTest.class
+pages\LoginPage.class
+utils\UserApi.class
+runners\RunCucumberTest.class
+steps\EditTest.class
+steps\ErrorRegistrationTest.class
+pages\RegistrationPage.class
+steps\CreateTest.class
